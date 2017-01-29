@@ -1,7 +1,7 @@
 # ActivityLivecycle
 
 #ScreenShoot Aplikasi
-![ScreenShoot1](https://docs.google.com/uc?id=0B8vzO9BCgQxuekVzTDMxejdxMzA)
+![ScreenShoot1](https://docs.google.com/uc?id=0B8vzO9BCgQxuaW1DS2pwSDZzZlU)
 ![ScreenShoot2](https://docs.google.com/uc?id=0B8vzO9BCgQxuekVzTDMxejdxMzA)
 #Identitas
     Nama        : Arddhana Zhafran Amanullah
